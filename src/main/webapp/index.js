@@ -3,6 +3,6 @@
  **/
 
 (function(){
-    alert("My JS TestEEEEEEEEEE!");
-    alert("My JS TestSFFFFFFFFFFF!");
+ /*   alert("My JS TestEEEEEEEEEE!");
+    alert("My JS TestSFFFFFFFFFFF!");*/
 })();
